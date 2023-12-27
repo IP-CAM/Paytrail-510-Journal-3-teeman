@@ -1,4 +1,4 @@
-# Paytrai-510-journal
+# Paytrail-510-Journal
 Opencat maksutapa-laajennus Journal 3 teemaan, suomalaisiin verkkokappoihin.
 
 
